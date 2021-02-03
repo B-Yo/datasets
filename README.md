@@ -34,6 +34,7 @@ EFA_Dataset_v20200314_latest.json
 
 
 efaqa-corpus-zh.json
+#簡體中文 用詞文化不同
 #bad_dataset
 #非諮商專業
 #單向回覆
@@ -47,7 +48,7 @@ efaqa-corpus-zh.json
 Counseling and Psychotherapy Transcripts Series
 #英文
 #諮商專業 心理師跟個案對話
-#缺帳號 e.g. 學生Email
+#缺帳號 e.g.大學Email
 https://alexanderstreet.com/products/counseling-and-psychotherapy-transcripts-series
 https://search.alexanderstreet.com/psyc
 
